@@ -721,8 +721,9 @@ GameObject:
   m_Component:
   - component: {fileID: 569636604}
   - component: {fileID: 569636605}
+  - component: {fileID: 569636606}
   m_Layer: 5
-  m_Name: LenghtToggle
+  m_Name: ComorbidityToggle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -794,8 +795,33 @@ MonoBehaviour:
   m_Group: {fileID: 0}
   onValueChanged:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 569636606}
+        m_TargetAssemblyTypeName: ComorbidityToggle, Assembly-CSharp
+        m_MethodName: ToggleOn
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   m_IsOn: 0
+--- !u!114 &569636606
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 569636603}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c0d9c592f3afba40b472b963053eac2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  text: {fileID: 1380012417}
 --- !u!1 &573279388
 GameObject:
   m_ObjectHideFlags: 0
@@ -807,6 +833,7 @@ GameObject:
   - component: {fileID: 573279389}
   - component: {fileID: 573279391}
   - component: {fileID: 573279390}
+  - component: {fileID: 573279392}
   m_Layer: 5
   m_Name: ProbabilityResutText
   m_TagString: Untagged
@@ -875,6 +902,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 573279388}
   m_CullTransparentMesh: 1
+--- !u!114 &573279392
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 573279388}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dc842dc591b23e4ab858abead6fead3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &576133920
 GameObject:
   m_ObjectHideFlags: 0
@@ -1480,6 +1519,7 @@ GameObject:
   m_Component:
   - component: {fileID: 865783065}
   - component: {fileID: 865783066}
+  - component: {fileID: 865783067}
   m_Layer: 5
   m_Name: AgeToggle
   m_TagString: Untagged
@@ -1553,8 +1593,33 @@ MonoBehaviour:
   m_Group: {fileID: 0}
   onValueChanged:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 865783067}
+        m_TargetAssemblyTypeName: AgeToggle, Assembly-CSharp
+        m_MethodName: ToggleOn
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   m_IsOn: 0
+--- !u!114 &865783067
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 865783064}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54161cb8cc69d2a4e99c8d6161a24899, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  text: {fileID: 1278916479}
 --- !u!1 &944012553
 GameObject:
   m_ObjectHideFlags: 0
@@ -2000,8 +2065,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1111522358}
   - component: {fileID: 1111522359}
+  - component: {fileID: 1111522360}
   m_Layer: 5
-  m_Name: LenghtToggle
+  m_Name: RT3Toggle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2073,8 +2139,33 @@ MonoBehaviour:
   m_Group: {fileID: 0}
   onValueChanged:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1111522360}
+        m_TargetAssemblyTypeName: RT3Toggle, Assembly-CSharp
+        m_MethodName: ToggleOn
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   m_IsOn: 0
+--- !u!114 &1111522360
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1111522357}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 026f127a5132c4a4a8b7cf04edd2b2ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  text: {fileID: 1533861222}
 --- !u!1 &1210143837
 GameObject:
   m_ObjectHideFlags: 0
@@ -2321,8 +2412,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1316338069}
   - component: {fileID: 1316338070}
+  - component: {fileID: 1316338071}
   m_Layer: 5
-  m_Name: LenghtToggle
+  m_Name: FT3Toggle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2394,8 +2486,33 @@ MonoBehaviour:
   m_Group: {fileID: 0}
   onValueChanged:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1316338071}
+        m_TargetAssemblyTypeName: FT3Toggle, Assembly-CSharp
+        m_MethodName: ToggleOn
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   m_IsOn: 0
+--- !u!114 &1316338071
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1316338068}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f44685baeea82d347939c610fa0f434c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  text: {fileID: 641682733}
 --- !u!1 &1321702865
 GameObject:
   m_ObjectHideFlags: 0
@@ -2953,6 +3070,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1593072072}
   - component: {fileID: 1593072073}
+  - component: {fileID: 1593072074}
   m_Layer: 5
   m_Name: LenghtToggle
   m_TagString: Untagged
@@ -3026,8 +3144,33 @@ MonoBehaviour:
   m_Group: {fileID: 0}
   onValueChanged:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1593072074}
+        m_TargetAssemblyTypeName: LenghtToggle, Assembly-CSharp
+        m_MethodName: ToggleOn
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   m_IsOn: 0
+--- !u!114 &1593072074
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1593072071}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 915e2f33056701647b625552a74dbf90, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  text: {fileID: 2128019682}
 --- !u!1 &1619846204
 GameObject:
   m_ObjectHideFlags: 0
@@ -3266,7 +3409,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1669435535}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 573279392}
+        m_TargetAssemblyTypeName: ProbabilityCalculator, Assembly-CSharp
+        m_MethodName: CalculateProbability
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1669435535
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3636,7 +3791,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1973895884
 RectTransform:
   m_ObjectHideFlags: 0
