@@ -3,4 +3,4 @@ App responsible for calculalte death probability of patients admitted to the ICU
 
 This was based on the research conducted by Carla Daniele Nascimento Pontes and Dr. Rosana Maria Feio Libonati. These findings are presented in the paper called "Low T3 Syndrome as a prognostic factor in patients in Intensive Care Unit".
 
-This app was developed by Daniel Libonati Gomes. You are free to modify it as all you want.
+Developed by Daniel Libonati Gomes.
