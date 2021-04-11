@@ -1116,8 +1116,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 26.960999}
-  m_SizeDelta: {x: -70, y: 907.75}
+  m_AnchoredPosition: {x: 0, y: 13.7776}
+  m_SizeDelta: {x: -70, y: 934.1168}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &487880796
 MonoBehaviour:
@@ -1162,8 +1162,6 @@ MonoBehaviour:
     calculator is based on the research conducted by Carla Daniele Nascimento Pontes
     and Dr. Rosana Maria Feio Libonati. The findings are presented in the paper called
     "Low T3 Syndrome as a prognostic factor in patients in Intensive Care Unit".
-
-    
 
 
     App
@@ -3776,7 +3774,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: -0.000030517578, y: -67}
+  m_AnchoredPosition: {x: 0, y: -67}
   m_SizeDelta: {x: 0, y: 77.657}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1138710873
@@ -6793,7 +6791,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: -0.000030517578, y: 43.187}
+  m_AnchoredPosition: {x: 0, y: 43.187}
   m_SizeDelta: {x: 0, y: 86.374}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1947912738
