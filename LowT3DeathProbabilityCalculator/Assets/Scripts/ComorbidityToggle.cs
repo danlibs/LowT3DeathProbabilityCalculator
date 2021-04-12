@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.Localization.Settings;
 
 public class ComorbidityToggle : MonoBehaviour
 {
@@ -23,12 +24,27 @@ public class ComorbidityToggle : MonoBehaviour
         if (toggle.isOn)
         {
             x3 = 1;
-            text.text = "Yes";
+            if (LocalizationSettings.SelectedLocale == LocalizationSettings.AvailableLocales.Locales[0])
+            {
+                text.text = "Yes";
+            }
+            else if (LocalizationSettings.SelectedLocale == LocalizationSettings.AvailableLocales.Locales[1])
+            {
+                text.text = "Sim";
+            }
+
         }
         else
         {
             x3 = 0;
-            text.text = "No";
+            if (LocalizationSettings.SelectedLocale == LocalizationSettings.AvailableLocales.Locales[0])
+            {
+                text.text = "No";
+            }
+            else if (LocalizationSettings.SelectedLocale == LocalizationSettings.AvailableLocales.Locales[1])
+            {
+                text.text = "Não";
+            }
         }
     }
 }

@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: ExplanationsTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: ExplanationsTable
+  m_TableCollectionNameGuidString: e74e49a75df5d7940bc90ae4b356e8e5
+  m_Entries:
+  - m_Id: 24667914240
+    m_Key: EXPLAIN_INSTRUCTIONS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72281653248
+    m_Key: EXPLAIN_BUTTON1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 122852376576
+    m_Key: EXPLAIN_BUTTON2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1256530804736
+    m_Key: RESULT_PANEL1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1448302772224
+    m_Key: BUTTON_BACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1829917327360
+    m_Key: OPTIONS_PANEL_12_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2182515687424
+    m_Key: OPTIONS_PANEL_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2505493872640
+    m_Key: OPTIONS_PANEL_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3291489665024
+    m_Key: RESULT_PANEL2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3600723116032
+    m_Key: RESULT_PANEL3
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1618189143691

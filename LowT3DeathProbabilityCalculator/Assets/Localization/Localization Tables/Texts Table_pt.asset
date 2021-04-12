@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Texts Table_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: 014e698b7a4692248924c0c03b81e623, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 354310848512
+    m_Localized: Essa calculadora tem utilidade para mim?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 720398090240
+    m_Localized: Calcular probabilidade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 792993103872
+    m_Localized: Sobre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14998366748672
+    m_Localized: "As caixas abaixo mudam os valores ao lado delas com base em estarerm
+      selecionadas ou n\xE3o. Os valores devem estar de acordo com a situa\xE7\xE3o
+      do seu paciente. Ao terminar, clique em \"CALCULAR PROBABILIDADE\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15045561057280
+    m_Localized: "Tempo na UTI: \n(em dias)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15125412216832
+    m_Localized: 'Idade (em anos):'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15171977379840
+    m_Localized: "N\xEDvel do T3 livre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15241502162944
+    m_Localized: "N\xEDvel do T3 reverso"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15270803570688
+    m_Localized: CALCULAR PROBABILIDADE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15398654345216
+    m_Localized: 'Probabilidade de morte:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15439221653504
+    m_Localized: Fechar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17216461504512
+    m_Localized: "Presen\xE7a de comorbidade:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20705900134400
+    m_Localized: "Este aplicativo foi desenvolvido para ajudar voc\xEA a calcular
+      a probabilidade de morte de pacientes admitidos na UTI com baixos n\xEDveis
+      s\xE9ricos de T3 Total e/ou T3 Livre, caracter\xEDsticas da Euthyroid Sick
+      Syndrome (ESS).\n\nEsta calculadora de probabilidade \xE9 baseada na pesquisa
+      conduzida por Carla Daniele Nascimento Pontes e pela Dr. Rosana Maria Feio
+      Libonati. As descobertas est\xE3o presentets no artigo intitulado \"Low T3
+      Syndrome as a prognostic factor in patients in Intensive Care Unit\".\r\n\nAplicativo
+      desenvolvido por Daniel Libonati Gomes."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

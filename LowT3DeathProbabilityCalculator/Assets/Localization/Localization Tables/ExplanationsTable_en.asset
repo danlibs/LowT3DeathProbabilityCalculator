@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ExplanationsTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: e74e49a75df5d7940bc90ae4b356e8e5, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 24667914240
+    m_Localized: The options below will help you to know if this calculator will
+      be of use to you now. Click the buttons according to your patient's situation.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72281653248
+    m_Localized: Free T3 level is normal or high
+    m_Metadata:
+      m_Items: []
+  - m_Id: 122852376576
+    m_Localized: Free T3 level is low
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1256530804736
+    m_Localized: Suspend investigation or repeat dosages according to clinical suspicion.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1448302772224
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1829917327360
+    m_Localized: 'Request reverse T3 (rT3) and repeat Free T3. The result is:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2182515687424
+    m_Localized: ESS - low Free T3 and high rT3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2505493872640
+    m_Localized: No ESS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3291489665024
+    m_Localized: Correlate with other clinical data and repeat dosages according
+      to clinical suspicion.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3600723116032
+    m_Localized: 'You can use the death probability calculator. Just click the button
+      bellow:'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ExplanationsTable_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: e74e49a75df5d7940bc90ae4b356e8e5, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 24667914240
+    m_Localized: "As op\xE7\xF5es abaixo ajudar\xE3o voc\xEA a saber se esta calculaldora
+      ser\xE1 \xFAtil agora. Clique nos bot\xF5es de acordo com a situa\xE7\xE3o
+      do seu paciente."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72281653248
+    m_Localized: "N\xEDvel de T3 Livre normal ou alto"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 122852376576
+    m_Localized: "N\xEDvel de T3 Livre baixo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1256530804736
+    m_Localized: "Suspenda a investiga\xE7\xE3o ou repita as dosagens de acordo com
+      a suspeita cl\xEDnica."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1448302772224
+    m_Localized: Voltar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1829917327360
+    m_Localized: "Solicite o T3 reverso (rT3) e repita o T3 Livre. Os resultados
+      s\xE3o:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2182515687424
+    m_Localized: ESS - baixo T3 Livre e alto rT3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2505493872640
+    m_Localized: "Aus\xEAncia de ESS"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3291489665024
+    m_Localized: "Correlacione com outros dados cl\xEDnicos e repita dosagens conforme
+      suspeita cl\xEDnica."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3600723116032
+    m_Localized: "Voc\xEA pode usuar a calculadora de probabilidade de \xF3bito.
+      Basta clicar no bot\xE3o abaixo:"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

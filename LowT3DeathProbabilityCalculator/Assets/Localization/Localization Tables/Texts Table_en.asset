@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Texts Table_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 014e698b7a4692248924c0c03b81e623, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 354310848512
+    m_Localized: Is this calculator useful to me?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 720398090240
+    m_Localized: Calculate probability
+    m_Metadata:
+      m_Items: []
+  - m_Id: 792993103872
+    m_Localized: About
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14998366748672
+    m_Localized: The boxes bellow change the values next to them based on wether
+      they are checked or not. The values shown must present the condition of your
+      patient. When you're done, click "CALCULATE PROBABILITY"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15045561057280
+    m_Localized: "ICU lenght of stay: \n(in days) "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15125412216832
+    m_Localized: 'Age (in years):'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15171977379840
+    m_Localized: Free T3 level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15241502162944
+    m_Localized: Reverse T3 level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15270803570688
+    m_Localized: CALCULATE PROBABILITY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15398654345216
+    m_Localized: 'Probability of death:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15439221653504
+    m_Localized: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17216461504512
+    m_Localized: 'Presence of comorbidity:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20705900134400
+    m_Localized: 'This app was designed to help you to calculalte  the death probability
+      of patients admitted to the ICU with low seric levels of Total T3 and/or Free
+      T3, characterizing Euthyroid Sick Syndrome (ESS).
+
+
+
+      This probability
+      calculator is based on the research conducted by Carla Daniele Nascimento Pontes
+      and Dr. Rosana Maria Feio Libonati. The findings are presented in the paper
+      called "Low T3 Syndrome as a prognostic factor in patients in Intensive Care
+      Unit".
+
+
+      App developed by Daniel Libonati Gomes.'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
