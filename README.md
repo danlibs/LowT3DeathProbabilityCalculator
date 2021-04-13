@@ -6,4 +6,4 @@ This probability calculator was developed as a product of the professional maste
 Developed by Daniel Libonati Gomes.
 
 ## How to install
-Using your android device, go to the Builds folder and download the apk file. After that, just click to open it and install. 
+On your android device, check the Releases area and click on the latest release. At the release page, click on the Assets dropdown menu and click on the .apk file to download it. After the download, just click on the file to open it and install.
