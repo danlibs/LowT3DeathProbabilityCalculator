@@ -1,6 +1,6 @@
 # LowT3DeathProbabilityCalculator
-App responsible for calculalte death probability of patients admitted to the ICU with low seric levels of Total T3 and/or Free T3, characterizing Euthyroid Sick Syndrome (ESS).
+This app was designed to help you to calculalte  the death probability of patients admitted to the ICU with low seric level of Free T3 and high level of reverse T3, characterizing Euthyroid Sick Syndrome (ESS).
 
-This was based on the research conducted by Carla Daniele Nascimento Pontes and Dr. Rosana Maria Feio Libonati. These findings are presented in the paper called "Low T3 Syndrome as a prognostic factor in patients in Intensive Care Unit".
+This probability calculator was developed as a product of the professional master's degree of Carla Daniele Nascimento Pontes, M. Sc., supervised by Dr. Rosana Maria Feio Libonati. The results are presented in the paper called "Low T3 Syndrome as a prognostic factor in patients in Intensive Care Unit".
 
 Developed by Daniel Libonati Gomes.
