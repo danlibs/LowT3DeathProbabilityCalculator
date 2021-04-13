@@ -31,7 +31,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 14998366748672
-    m_Localized: "As caixas abaixo mudam os valores ao lado delas com base em estarerm
+    m_Localized: "As caixas abaixo mudam os valores ao lado delas com base em estarem
       selecionadas ou n\xE3o. Os valores devem estar de acordo com a situa\xE7\xE3o
       do seu paciente. Ao terminar, clique em \"CALCULAR PROBABILIDADE\""
     m_Metadata:
@@ -45,11 +45,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 15171977379840
-    m_Localized: "N\xEDvel do T3 livre"
+    m_Localized: "N\xEDvel do T3 livre:"
     m_Metadata:
       m_Items: []
   - m_Id: 15241502162944
-    m_Localized: "N\xEDvel do T3 reverso"
+    m_Localized: "N\xEDvel do T3 reverso:"
     m_Metadata:
       m_Items: []
   - m_Id: 15270803570688
@@ -70,13 +70,13 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 20705900134400
     m_Localized: "Este aplicativo foi desenvolvido para ajudar voc\xEA a calcular
-      a probabilidade de morte de pacientes admitidos na UTI com baixos n\xEDveis
-      s\xE9ricos de T3 Total e/ou T3 Livre, caracter\xEDsticas da Euthyroid Sick
-      Syndrome (ESS).\n\nEsta calculadora de probabilidade \xE9 baseada na pesquisa
-      conduzida por Carla Daniele Nascimento Pontes e pela Dr. Rosana Maria Feio
-      Libonati. As descobertas est\xE3o presentets no artigo intitulado \"Low T3
-      Syndrome as a prognostic factor in patients in Intensive Care Unit\".\r\n\nAplicativo
-      desenvolvido por Daniel Libonati Gomes."
+      a probabilidade de \xF3bito de pacientes admitidos na UTI com baixo n\xEDvel
+      s\xE9rico de T3 Livre e n\xEDvel aumentado de T3 reverso, o que caracteriza
+      Euthyroid Sick Syndrome (ESS).\n\nEsta calculadora de probabilidade foi desenvolvida
+      como produto do mestrado profissional de Ma. Carla Daniele Nascimento Pontes,
+      orientada pela Dra. Rosana Maria Feio Libonati. Os resultados s\xE3o apresentados
+      no artigo intitulado \"Low T3 Syndrome as a prognostic factor in patients in
+      Intensive Care Unit\".\r\n\nAplicativo desenvolvido por Daniel Libonati Gomes."
     m_Metadata:
       m_Items: []
   references:
