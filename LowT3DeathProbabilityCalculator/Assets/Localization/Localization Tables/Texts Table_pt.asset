@@ -57,7 +57,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 15398654345216
-    m_Localized: 'Probabilidade de morte:'
+    m_Localized: "Probabilidade de \xF3bito:"
     m_Metadata:
       m_Items: []
   - m_Id: 15439221653504
@@ -75,8 +75,10 @@ MonoBehaviour:
       Euthyroid Sick Syndrome (ESS).\n\nEsta calculadora de probabilidade foi desenvolvida
       como produto do mestrado profissional de Ma. Carla Daniele Nascimento Pontes,
       orientada pela Dra. Rosana Maria Feio Libonati. Os resultados s\xE3o apresentados
-      no artigo intitulado \"Low T3 Syndrome as a prognostic factor in patients in
-      Intensive Care Unit\".\r\n\nAplicativo desenvolvido por Daniel Libonati Gomes."
+      na disserta\xE7\xE3o intitulada \"Avalia\xE7\xE3o da Fun\xE7\xE3o Tireoidiana
+      nos Pacientets em Unidade de Terapia Intensiva como Fator Progn\xF3stico: uma
+      perspectiva futura\" (2019).\r\n\nAplicativo desenvolvido por Daniel Libonati
+      Gomes."
     m_Metadata:
       m_Items: []
   references:

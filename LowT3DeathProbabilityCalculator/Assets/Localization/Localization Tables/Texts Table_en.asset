@@ -69,20 +69,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 20705900134400
-    m_Localized: 'This app was designed to help you to calculalte  the death probability
+    m_Localized: "This app was designed to help you to calculalte  the death probability
       of patients admitted to the ICU with low seric level of Free T3 and high level
-      of reverse T3, characterizing Euthyroid Sick Syndrome (ESS).
-
-
-      This probability
-      calculator was developed as a product of the professional master''s degree
-      of Carla Daniele Nascimento Pontes, M. Sc., supervised by Dr. Rosana Maria
-      Feio Libonati. The results are presented in the paper called "Low T3 Syndrome
-      as a prognostic factor in patients in Intensive Care Unit".
-
-
-      App developed
-      by Daniel Libonati Gomes.'
+      of reverse T3, characterizing Euthyroid Sick Syndrome (ESS).\n\nThis probability
+      calculator was developed as a product of the professional master's degree of
+      Carla Daniele Nascimento Pontes, M. Sc., supervised by Dr. Rosana Maria Feio
+      Libonati. The results are presented in the thesis entitled \"Avalia\xE7\xE3o
+      da Fun\xE7\xE3o Tireoidiana nos Pacientets em Unidade de Terapia Intensiva
+      como Fator Progn\xF3stico: uma perspectiva futura\" (2019).\n\nApp developed
+      by Daniel Libonati Gomes."
     m_Metadata:
       m_Items: []
   references:
